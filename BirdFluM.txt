@@ -1,0 +1,16 @@
+Country	2003cases	2004cases	2005cases	2006cases	2007cases	2008cases	2003deaths	2004deaths	2005deaths	2006deaths	2007deaths	2008deaths
+Azerbaijan	0	0	0	8	0	0	0	0	0	5	0	0
+Bangladesh	0	0	0	0	0	1	0	0	0	0	0	0
+Cambodia	0	0	4	2	1	0	0	0	4	2	1	0
+China	1	0	8	13	5	3	1	0	5	8	3	3
+Djibouti	0	0	0	1	0	0	0	0	0	0	0	0
+Egypt	0	0	0	18	25	7	0	0	0	10	9	3
+Indonesia	0	0	20	55	42	18	0	0	13	45	37	15
+Iraq	0	0	0	3	0	0	0	0	0	2	0	0
+LaoPeoplesDemocraticRepublic	0	0	0	0	2	0	0	0	0	0	2	0
+Myanmar	0	0	0	0	1	0	0	0	0	0	0	0
+Nigeria	0	0	0	0	1	0	0	0	0	0	1	0
+Pakistan	0	0	0	0	3	0	0	0	0	0	1	0
+Thailand	0	17	5	3	0	0	0	12	2	3	0	0
+Turkey	0	0	0	12	0	0	0	0	0	4	0	0
+VietNam	3	29	61	0	8	5	3	20	19	0	5	5
